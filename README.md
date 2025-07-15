@@ -81,7 +81,7 @@ graph TD
 <img src="YOUR_SCREENSHOT_1_URL_HERE" alt="Dashboard Overview" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
  
 ### 📊 **Real-Time Charts**
-<img src="YOUR_SCREENSHOT_2_URL_HERE" alt="Real-Time Charts" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="Screenshot (4869).png" alt="Real-Time Charts" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
  
 ### 🎛️ **Control Panel**
 <img src="YOUR_SCREENSHOT_3_URL_HERE" alt="Control Panel" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
