@@ -78,7 +78,7 @@ graph TD
 <div align="center">
  
 ### 📱 **Dashboard Overview**
-<img src="YOUR_SCREENSHOT_1_URL_HERE" alt="Dashboard Overview" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="https://github.com/Ogola720/smart-farm-web-app/blob/c33f5cdb9f96994e55cf4f08e9804c28a4afceef/Screenshot%20(4871).png" alt="Dashboard Overview" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
  
 ### 📊 **Real-Time Charts**
 <img src="Screenshot (4869).png" alt="Real-Time Charts" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
