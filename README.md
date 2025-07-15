@@ -84,16 +84,13 @@ graph TD
 <img src="Screenshot (4875).png" alt="Real-Time Charts" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
  
 ### 🎛️ **Control Panel**
-<img src="YOUR_SCREENSHOT_3_URL_HERE" alt="Control Panel" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="Screenshot (4873).png" alt="Control Panel" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
  
 ### 🔄 **Live Data Updates**
-<img src="YOUR_SCREENSHOT_4_URL_HERE" alt="Live Data Updates" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="Screenshot (4874).png" alt="Live Data Updates" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
  
 ### 📈 **Historical Trends**
-<img src="Screenshot (4873).png" alt="Historical Trends" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
- 
-### 🖥️ **Terminal Output**
-<img src="YOUR_SCREENSHOT_6_URL_HERE" alt="Terminal Output" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="Screenshot (4875).png" alt="Historical Trends" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
  
 </div>
  
