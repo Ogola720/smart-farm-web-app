@@ -90,7 +90,7 @@ graph TD
 <img src="YOUR_SCREENSHOT_4_URL_HERE" alt="Live Data Updates" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
  
 ### 📈 **Historical Trends**
-<img src="YOUR_SCREENSHOT_5_URL_HERE" alt="Historical Trends" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="Screenshot (4873).png" alt="Historical Trends" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
  
 ### 🖥️ **Terminal Output**
 <img src="YOUR_SCREENSHOT_6_URL_HERE" alt="Terminal Output" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
